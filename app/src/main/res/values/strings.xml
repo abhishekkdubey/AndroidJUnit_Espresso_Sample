@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample App</string>
+    <string name="title_activity_login">Sing In/Register</string>
+    <string name="forgot_pass">Forgot your password ?</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="header_main">Welcome, Sample App</string>
+    <string name="details_espresso">About Espresso Framework:\n\nThe Espresso testing framework, provided by the Android Testing Support Library, provides APIs for writing UI tests to simulate user interactions within a single target app. Espresso tests can run on devices running Android 2.3.3 (API level 10) and higher. A key benefit of using Espresso is that it provides automatic synchronization of test actions with the UI of the app you are testing. Espresso detects when the main thread is idle, so it is able to run your test commands at the appropriate time, improving the reliability of your tests. This capability also relieves you from having to add any timing workarounds, such as Thread.sleep() in your test code.</string>
+    <string name="change_pwd">Change password</string>
+    <string name="new_password">new password</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="success_message">Your password chnaged successfully</string>
+</resources>
