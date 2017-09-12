@@ -53,6 +53,8 @@ dependencies {
     testCompile 'org.powermock:powermock-module-junit4:1.7.0RC2'
     testCompile 'org.powermock:powermock-api-mockito2:1.7.0RC2'
 
+    compile 'com.squareup.retrofit2:converter-gson:2.1.0'
+
     androidTestCompile 'com.android.support.test.uiautomator:uiautomator-v18:2.1.0'
     androidTestCompile ('com.android.support.test:runner:1.0.0') {
         exclude group: 'com.android.support'
